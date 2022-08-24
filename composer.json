@@ -20,7 +20,8 @@
         "drupal/core-project-message": "^9.4",
         "drupal/core-recommended": "^9.4",
         "drupal/gutenberg": "^2.5",
-        "drupal/gutenberg_bs_blocks": "^1.0@RC"
+        "drupal/gutenberg_bs_blocks": "^1.0@RC",
+        "drupal/showcase_lite": "^1.3"
     },
     "conflict": {
         "drupal/drupal": "*"
