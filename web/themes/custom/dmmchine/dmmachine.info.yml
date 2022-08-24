@@ -1,0 +1,28 @@
+name: DM MACHINES
+type: theme
+description: "DM MACHINE THEME"
+# core: 8.x
+base theme: classy
+
+
+regions:
+  page_top: 'Page Top'
+  header: Header
+  header_right: 'Header Right'
+  breadcrumb: Breadcrumb
+  help: Help
+  highlighted: Highlighted
+  content_top: Content Top
+  content: Content
+  content_bottom: Content Bottom
+  sidebar_first: Sidebar First
+  footer: Footer
+  footer_bottom: Footer Bottom
+  disabled: Disabled
+  page_bottom: 'Page Bottom'
+
+# Information added by Drupal.org packaging script on 2019-03-04
+version: '8.x-1.1'
+core: '8.x'
+project: 'dm_machine'
+datestamp: 1551713103
